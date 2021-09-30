@@ -23,4 +23,3 @@ function dreamEater(name) {
 
 
 mudkip.addEventListener('submit', retrievePokemon)
-
