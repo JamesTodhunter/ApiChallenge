@@ -1,0 +1,26 @@
+body {
+    margin: auto;
+    background-color: rgb(100,24, 130);
+    background-image: url("./gen3.png");
+    font-family: cursive, sans-serif;
+    font-size: xx-large;
+    color: rgb(251, 202, 60);
+    text-align: center;
+    vertical-align: middle;
+     
+}
+
+
+button {
+    border-color: rgb(238, 21, 21);
+    border-style: solid;
+    font-family: cursive, sans-serif;
+    color: rgb(34, 34, 36);
+}
+
+p {
+    font-family: fantasy, sans-serif;
+    color:  rgb(241, 178, 172);
+    font-size: 300px;
+};
+
